@@ -20,7 +20,7 @@
 
 ```typescript
 const developer = {
-  name: "HeHe",
+  name: "Saif Ali",
   location: "🌍 Earth",
   role: "Developer",
   philosophy: "Code is poetry, design is art",
