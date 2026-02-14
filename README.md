@@ -105,12 +105,12 @@ const developer = {
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hehewhy321-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hehewhy321-afk&theme=transparent&hide_border=true&background=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hehewhy321-afk&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hehewhy321-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hehewhy321-afk&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="170"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hehewhy321-afk&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" alt="Contribution Graph" height="170"/>
 </p>
 
@@ -121,7 +121,7 @@ const developer = {
 ### 🏆 **GITHUB TROPHIES**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hehewhy321-afk&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=hehewhy321-afk&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
 </p>
 
 ---
