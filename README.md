@@ -153,7 +153,7 @@ const developer = {
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=hehewhy321-afk&repo=koshi-province-labtest&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="Project 3"/>
       </a>
       <br><br>
-      <p><strong>🔥 Koshi Province Labtest</strong> - A modern, user-friendly digital platform that provides seamless access to Koshi Province Public Health Laboratory services. This system eliminates the need for repeated paperwork, phone calls, and manual processes by offering a comprehensive online solution for laboratory test management. </p>
+      <p><strong>🔥 Koshi Province Labtest</strong> - A modern, user-friendly digital platform that provides seamless access to Koshi Province Public Health Laboratory services. </p>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/hehewhy321-afk/hangoutly">
