@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0f0f,100:1a1a2e&height=160&section=header&text=Saif%20Ali&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Designer%20%C2%B7%20Developer%20%C2%B7%20Doer&descAlignY=78&descSize=15&descColor=888888" width="100%"/>
+# Saif Ali
+Designer · Developer · Doer
+
 
 </div>
 
